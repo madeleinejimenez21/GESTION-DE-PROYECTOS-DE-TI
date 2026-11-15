@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1084 465" width="1084" height="465" font-family="Liberation Sans, Arial, sans-serif">
+<rect width="1084" height="465" fill="#fff"/>
+<line x1="542.0" y1="62" x2="542.0" y2="85" stroke="#888" stroke-width="1.4"/>
+<line x1="110.0" y1="85" x2="974.0" y2="85" stroke="#888" stroke-width="1.4"/>
+<line x1="110.0" y1="85" x2="110.0" y2="105" stroke="#888" stroke-width="1.4"/>
+<line x1="24" y1="151" x2="24" y2="305" stroke="#888" stroke-width="1.4"/>
+<line x1="24" y1="196" x2="38" y2="196" stroke="#888" stroke-width="1.4"/>
+<line x1="24" y1="252" x2="38" y2="252" stroke="#888" stroke-width="1.4"/>
+<line x1="24" y1="308" x2="38" y2="308" stroke="#888" stroke-width="1.4"/>
+<line x1="326.0" y1="85" x2="326.0" y2="105" stroke="#888" stroke-width="1.4"/>
+<line x1="240" y1="151" x2="240" y2="305" stroke="#888" stroke-width="1.4"/>
+<line x1="240" y1="196" x2="254" y2="196" stroke="#888" stroke-width="1.4"/>
+<line x1="240" y1="252" x2="254" y2="252" stroke="#888" stroke-width="1.4"/>
+<line x1="240" y1="308" x2="254" y2="308" stroke="#888" stroke-width="1.4"/>
+<line x1="542.0" y1="85" x2="542.0" y2="105" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="151" x2="456" y2="417" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="196" x2="470" y2="196" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="252" x2="470" y2="252" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="308" x2="470" y2="308" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="364" x2="470" y2="364" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="420" x2="470" y2="420" stroke="#888" stroke-width="1.4"/>
+<line x1="758.0" y1="85" x2="758.0" y2="105" stroke="#888" stroke-width="1.4"/>
+<line x1="672" y1="151" x2="672" y2="305" stroke="#888" stroke-width="1.4"/>
+<line x1="672" y1="196" x2="686" y2="196" stroke="#888" stroke-width="1.4"/>
+<line x1="672" y1="252" x2="686" y2="252" stroke="#888" stroke-width="1.4"/>
+<line x1="672" y1="308" x2="686" y2="308" stroke="#888" stroke-width="1.4"/>
+<line x1="974.0" y1="85" x2="974.0" y2="105" stroke="#888" stroke-width="1.4"/>
+<line x1="888" y1="151" x2="888" y2="305" stroke="#888" stroke-width="1.4"/>
+<line x1="888" y1="196" x2="902" y2="196" stroke="#888" stroke-width="1.4"/>
+<line x1="888" y1="252" x2="902" y2="252" stroke="#888" stroke-width="1.4"/>
+<line x1="888" y1="308" x2="902" y2="308" stroke="#888" stroke-width="1.4"/>
+<rect x="382.0" y="10" width="320" height="52" rx="6" fill="#87093F" stroke="#87093F" stroke-width="1.2"/>
+<text x="542.0" y="32.875" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">1.0 Asistente virtual con IA para la mesa de</text>
+<text x="542.0" y="47.875" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">ayuda estudiantil</text>
+<rect x="10" y="105" width="200" height="46" rx="6" fill="#D9A520" stroke="#D9A520" stroke-width="1.2"/>
+<text x="110.0" y="132.025" font-size="11.5" font-weight="700" fill="#fff" text-anchor="middle">1.1 Gestión del proyecto</text>
+<rect x="38" y="175" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="124.0" y="193.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.1.1 Acta de</text>
+<text x="124.0" y="205.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">constitución aprobada</text>
+<rect x="38" y="231" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="124.0" y="249.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.1.2 Plan del proyecto</text>
+<text x="124.0" y="261.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">(EDT y cronograma)</text>
+<rect x="38" y="287" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="124.0" y="305.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.1.3 Informe de cierre y</text>
+<text x="124.0" y="317.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">lecciones</text>
+<rect x="226" y="105" width="200" height="46" rx="6" fill="#D9A520" stroke="#D9A520" stroke-width="1.2"/>
+<text x="326.0" y="132.025" font-size="11.5" font-weight="700" fill="#fff" text-anchor="middle">1.2 Requisitos y diseño</text>
+<rect x="254" y="175" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="340.0" y="193.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.2.1 Requisitos y</text>
+<text x="340.0" y="205.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">catálogo de 150 preguntas</text>
+<rect x="254" y="231" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="340.0" y="249.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.2.2 Diseño de</text>
+<text x="340.0" y="261.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">conversaciones</text>
+<rect x="254" y="287" width="172" height="42" rx="6" fill="#F7EEF2" stroke="#D7B3C3" stroke-width="1.2"/>
+<text x="340.0" y="305.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.2.3 Arquitectura</text>
+<text x="340.0" y="317.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">técnica e integraciones</text>
+<rect x="442" y="105" width="200" height="46" rx="6" fill="#D9A520" stroke="#D9A520" stroke-width="1.2"/>
+<text x="542.0" y="125.025" font-size="11.5" font-weight="700" fill="#fff" text-anchor="middle">1.3 Asistente virtual</text>
+<text x="542.0" y="139.025" font-size="11.5" font-weight="700" fill="#fff" text-anchor="middle">(software)</text>
+<rect x="470" y="175" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="556.0" y="187.0" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.3.1 Base de</text>
+<text x="556.0" y="199.5" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">conocimiento y motor de</text>
+<text x="556.0" y="212.0" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">IA</text>
+<rect x="470" y="231" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="556.0" y="255.5" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.3.2 Canal web (chat)</text>
+<rect x="470" y="287" width="172" height="42" rx="6" fill="#F7EEF2" stroke="#D7B3C3" stroke-width="1.2"/>
+<text x="556.0" y="311.5" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.3.3 Canal WhatsApp</text>
+<rect x="470" y="343" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="556.0" y="361.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.3.4 Derivación a agente</text>
+<text x="556.0" y="373.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">humano</text>
+<rect x="470" y="399" width="172" height="42" rx="6" fill="#F7EEF2" stroke="#D7B3C3" stroke-width="1.2"/>
+<text x="556.0" y="423.5" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.3.5 Panel de reportes</text>
+<rect x="658" y="105" width="200" height="46" rx="6" fill="#D9A520" stroke="#D9A520" stroke-width="1.2"/>
+<text x="758.0" y="132.025" font-size="11.5" font-weight="700" fill="#fff" text-anchor="middle">1.4 Pruebas y calidad</text>
+<rect x="686" y="175" width="172" height="42" rx="6" fill="#F7EEF2" stroke="#D7B3C3" stroke-width="1.2"/>
+<text x="772.0" y="193.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.4.1 Plan y casos de</text>
+<text x="772.0" y="205.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">prueba</text>
+<rect x="686" y="231" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="772.0" y="249.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.4.2 Informe de pruebas</text>
+<text x="772.0" y="261.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">integrales</text>
+<rect x="686" y="287" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="772.0" y="305.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.4.3 Prueba piloto UAT</text>
+<text x="772.0" y="317.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">(300 estudiantes)</text>
+<rect x="874" y="105" width="200" height="46" rx="6" fill="#D9A520" stroke="#D9A520" stroke-width="1.2"/>
+<text x="974.0" y="132.025" font-size="11.5" font-weight="700" fill="#fff" text-anchor="middle">1.5 Despliegue y adopción</text>
+<rect x="902" y="175" width="172" height="42" rx="6" fill="#F7EEF2" stroke="#D7B3C3" stroke-width="1.2"/>
+<text x="988.0" y="193.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.5.1 Infraestructura en</text>
+<text x="988.0" y="205.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">la nube</text>
+<rect x="902" y="231" width="172" height="42" rx="6" fill="#F7EEF2" stroke="#D7B3C3" stroke-width="1.2"/>
+<text x="988.0" y="249.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.5.2 Manual y</text>
+<text x="988.0" y="261.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">capacitación</text>
+<rect x="902" y="287" width="172" height="42" rx="6" fill="#FDECEC" stroke="#C62828" stroke-width="2"/>
+<text x="988.0" y="305.25" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">1.5.3 Lanzamiento en</text>
+<text x="988.0" y="317.75" font-size="10" font-weight="400" fill="#2b2b2b" text-anchor="middle">producción</text>
+<rect x="754" y="463" width="0" height="0"/>
+</svg>
